@@ -1,5 +1,5 @@
 ## Database.js
-This file (database.js) contains the code for establishing a connection to a MySQL database and performing database operations. It utilizes the mysql library to interact with the database.
+This file (`database.js`) contains the code for establishing a connection to a MySQL database and performing database operations. It utilizes the mysql library to interact with the database.
 
 ## Prerequisites
 Before using this file, make sure you have the following prerequisites installed:
